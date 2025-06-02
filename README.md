@@ -25,7 +25,7 @@ Busco oportunidades para aplicar e expandir esses conhecimentos na área de dese
       src="https://img.shields.io/badge/WhatsApp-%23A259FF?style=for-the-badge&logo=whatsapp&logoColor=white"
     />
   </a>
-  <a href="https://github.com/matheusmob" target="_blank">
+  <a href="https://github.com/matheusm0b" target="_blank">
     <img 
       alt="GitHub" 
       title="Veja meus projetos no GitHub" 
