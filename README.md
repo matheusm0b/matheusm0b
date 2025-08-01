@@ -2,12 +2,11 @@
 
 **`Desenvolvedor`**
 
-Olá! Sou Matheus Oliveira Bueno, em transição de Web Designer para Desenvolvedor. Atualmente curso Engenharia de Software na Universidade Positivo e venho me aprofundando em HTML, CSS, Python e Git.
+Hi! I'm Matheus Oliveira Bueno, currently transitioning from Web Designer to Developer. I'm studying Software Engineering at Universidade Positivo and have been deepening my knowledge in HTML, CSS, Python, and Git.
 
-Com experiência como UI Designer, desenvolvi uma boa base em design e criação de sites com foco em UX. Também tenho conhecimento em Inteligência Artificial, atuando na criação e gestão de prompts para otimizar processos digitais.
+With experience as a UI Designer, I've built a strong foundation in design and website creation with a focus on user experience. I also have knowledge in Artificial Intelligence, working with prompt creation and management to optimize digital processes.
 
-Busco oportunidades para aplicar e expandir esses conhecimentos na área de desenvolvimento.
-
+I'm looking for opportunities to apply and expand these skills in the development field.
 <br/>
 
 <p align="left">
